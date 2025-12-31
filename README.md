@@ -132,7 +132,7 @@ Each normalized code returns an object with:
 
 ## Links / Docs
 
-- Documentation & Demo: https://ariseragnarok.org/resources/code-normalizer
+- Documentation & Demo: https://ariseragnarok.org/codes/
 
 ## License
 
